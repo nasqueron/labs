@@ -1,2 +1,5 @@
 - name: HexGL
   repo: https://github.com/BKcore/HexGL.git
+
+- name: corporate-name-generator
+  repo: https://devcentral.nasqueron.org/source/corporate-name-generator.git
